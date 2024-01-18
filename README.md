@@ -37,6 +37,9 @@ Akses pada browser dengan url
 http://localhost/kedai
 ```
 
+## License
+Project ini di license di bawah license MIT License
+
 ## Credit
 > Muhammad Aufa 
 > 201013002
